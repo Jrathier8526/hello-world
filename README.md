@@ -1,1 +1,1 @@
-# hello-world
+# hello-world I would like to learn as much as I can about Web Design and computers in general
